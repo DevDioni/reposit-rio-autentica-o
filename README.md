@@ -1,2 +1,4 @@
-# reposit-rio-autentica-o
-testes de autenticação
+# repositório de autenticação
+
+testes de autenticação do GitHub
+
